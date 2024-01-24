@@ -1,0 +1,7 @@
+{
+  "name": "tes3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
